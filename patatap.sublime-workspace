@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cirl",
+				"circles"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"circ",
+				"circles"
+			],
+			[
+				"rand",
+				"randCoordinateGenerator"
+			],
+			[
+				"onKey",
+				"onkeydown\t: EventHandler Document"
+			],
+			[
+				"fade",
+				"fadeToggle\t.fadeToggle()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"nth",
+				"nth-child()"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"text",
+				"textDecoration\t = 'line-through' Style CSS"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"gener",
+				"generateColors(6"
+			],
+			[
+				"game",
+				"gameMode"
+			],
+			[
+				"ga",
+				"gameMode"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"spacing",
+				"letter-spacing"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"dis",
+				"display\t = 'table-footer-group' Style CSS"
+			],
+			[
+				"st",
+				"style\t Style CSS"
+			],
+			[
+				"start",
+				"startGame"
+			],
+			[
+				"func",
+				"function_without_name"
+			],
+			[
+				"functn",
+				"function_without_name"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"back",
+				"background\t Style CSS"
+			],
+			[
+				"textC",
+				"textContent"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"set",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"sty",
+				"style_\t$1 = '' Style CSS"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"selected",
+				"selectedColor"
+			],
+			[
+				"sqa",
+				"squareSet"
+			],
+			[
+				"squar",
+				"squareSet"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"textCon",
+				"textContent"
+			],
+			[
+				"maxsc",
+				"maxScore"
+			],
+			[
+				"p2",
+				"p2Score"
+			],
+			[
+				"fucn",
+				"function_without_name"
+			],
+			[
+				"p1",
+				"p1Score"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"qu",
+				"query\t( relativeSelectors: DOMString ): Element Element"
+			],
+			[
+				"colo",
+				"color\t = '' Style CSS"
+			],
+			[
+				"styl",
+				"style\t Style CSS"
+			],
+			[
+				"functi",
+				"function_without_name"
+			],
+			[
+				"getelements",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"navbar",
+				"navbar-header \tBootstrap 3 Class"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"size",
+				"size_status"
+			],
+			[
+				"first",
+				"first_block"
+			],
+			[
+				"bl",
+				"blk_hdr"
+			],
+			[
+				"firs",
+				"first_block"
+			],
+			[
+				"fir",
+				"first_block"
+			],
+			[
+				"siz",
+				"size_status"
+			],
+			[
+				"tot",
+				"total_mem_size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "circles.html",
+			"settings":
+			{
+				"buffer_size": 4015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 93,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 661.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagrerese",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"CSS3: Convert RGB Color To Hex"
+			],
+			[
+				"fotmat",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"format code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"fort",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"valid",
+				"Pretty JSON: Validate"
+			],
+			[
+				"package co",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 809.0
+	},
+	"console":
+	{
+		"height": 233.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ahmad/Desktop/web dev practice/patatapProject",
+		"/C/Users/ahmad/Desktop/web dev practice/patatapProject/assets",
+		"/C/Users/ahmad/Desktop/web dev practice/patatapProject/assets/css"
+	],
+	"file_history":
+	[
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/HTML/HTML.sublime-syntax",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/HTML/html_completions.py",
+		"/C/Users/ahmad/Desktop/HTML.sublime-syntax",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.176/HTML.sublime-syntax",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
+		"/C/Users/ahmad/Desktop/web dev practice/patatapProject/assets/js/lib/paper-full.js",
+		"/C/Users/ahmad/Desktop/web dev practice/patatapProject/assets/js/lib/paperjs-v0.11.5/examples/Node.js/in.json",
+		"/C/Users/ahmad/Desktop/web dev practice/TodoListProject/assets/js/todos.js",
+		"/C/Users/ahmad/Desktop/web dev practice/TodoListProject/assets/css/todos.css",
+		"/C/Users/ahmad/Desktop/web dev practice/TodoListProject/index.html",
+		"/C/Users/ahmad/Desktop/web dev practice/rgb guesser/picker.css",
+		"/C/Users/ahmad/Desktop/web dev practice/TodoListProject/assets/js/lib/jquery-3.3.1.min.js",
+		"/C/Program Files/Sublime Text 3/index.html",
+		"/C/Users/ahmad/Desktop/web dev practice/to do list/list.html",
+		"/C/Users/ahmad/Desktop/web dev practice/jQuery/jQueryDemo.html",
+		"/C/Users/ahmad/Desktop/web dev practice/jQuery/script.js",
+		"/C/Users/ahmad/Desktop/web dev practice/rgb guesser/colorpicker.html",
+		"/C/Users/ahmad/Desktop/web dev practice/rgb guesser/script.js",
+		"/C/Users/ahmad/OneDrive/Documents/GitHub/azaidi4.github.io/index.html",
+		"/C/Users/ahmad/Desktop/notes",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/selectors/style.css",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/selectors/selector.html",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/selectors/script.js",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/test.js",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/script demo/demo.html",
+		"/C/Users/ahmad/Desktop/web dev practice/javascript/script demo/script.js",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/Default (Windows).sublime-keymap",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/Users/ahmad/Desktop/web dev practice/gallery/gallery.css",
+		"/C/Users/ahmad/Desktop/web dev practice/gallery/gallery.html",
+		"/C/Users/ahmad/Desktop/web dev practice/BootStrap practice/navbar.html",
+		"/C/Users/ahmad/OneDrive/Documents/GitHub/azaidi4.github.io/az.css",
+		"/C/Users/ahmad/Desktop/web dev practice/cssblog/cssblog.html",
+		"/C/Users/ahmad/Desktop/web dev practice/cssblog/blog.css",
+		"/C/Users/ahmad/Desktop/web dev practice/07_ImageBlog1/photoblog.css",
+		"/C/Users/ahmad/Desktop/web dev practice/07_ImageBlog1/photoblog.html",
+		"/C/Users/ahmad/Desktop/web dev practice/07_ImageBlog1/imageLinks.html",
+		"/C/Users/ahmad/Desktop/web dev practice/tictactoe.html",
+		"/C/Users/ahmad/Desktop/web dev practice/tictac.css",
+		"/C/Users/ahmad/Desktop/web dev practice/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/tictactoe.htm",
+		"/C/Users/ahmad/Desktop/web dev practice/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/ahmad/Desktop/web dev practice/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/ahmad/Desktop/web dev practice/app.css",
+		"/C/Users/ahmad/Desktop/web dev practice/practice.html",
+		"/C/Users/ahmad/Desktop/practice.html",
+		"/C/ProgramData/Git/config",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.399/SearchOok_results_for_ ceremony.txt",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/User/compile.sublime-build",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/testlist.txt",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce1.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce2.c",
+		"/C/Users/ahmad/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/2829/hw7[4813].java",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.904/SearchOok_results_for_ song of solomon.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.628/SearchOok_results_for_ song of solomon.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.568/SearchOok_results_for_ song of solomon.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.079/SearchOok_results_for_ song of solomon.txt",
+		"/C/Users/ahmad/Desktop/mem.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce6.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce5.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce4.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/coalesce3.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/free3.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/alloc2_nospace.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/alloc2.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/writeable.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/mem.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/align.c",
+		"/C/Users/ahmad/Desktop/test.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/Makefile",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/User/cbuild.sublime-build",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/myproject.sublime-project.txt",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p2/verify_hetero/CMakeLists.txt",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/{.txt",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/bestfit.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/tests/alloc.c",
+		"/C/Users/ahmad/OneDrive/Documents/Learning/CS 354/p3/mem.h",
+		"/C/Program Files (x86)/Intel Android Device USB driver/amd64/NOTICE.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.518/SearchOok_results_for_ housekeeping.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 540/WARC201709/102.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 540/WARC201709/cr.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 540/WARC201709/output.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p2/generate_magic/cmake-build-debug/output.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p2/verify_hetero/verify_hetero.c",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p2/verify_hetero/cmake-build-debug/test.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p2/cmake-build-debug/test.txt",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p2/test.txt",
+		"/C/Users/ahmad/.AndroidStudio2.3/system/log/idea.log",
+		"/C/Users/ahmad/Desktop/Learning/CS 354/p1/fortune.txt.txt",
+		"/C/Users/ahmad/Desktop/test.txt",
+		"/C/Users/ahmad/Desktop/Torus.java",
+		"/C/Users/ahmad/Desktop/Adobe Acrobat Pro DC 2017.009.20044 Final + Patch/Torrent downloaded from Kickass.to.txt",
+		"/C/Users/ahmad/Desktop/Adobe Acrobat Pro DC 2017.009.20044 Final + Patch/ReadMe.txt",
+		"/C/Users/ahmad/Desktop/hw1.txt",
+		"/C/Users/ahmad/Desktop/hw2.tex",
+		"/C/Users/ahmad/Desktop/fortune.txt.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.729/SearchOok_results_for_ margaret atwood.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.059/SearchOok_results_for_ heart of darkness.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.945/SearchOok_results_for_ stars and galaxies.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.509/SearchOok_results_for_ laura kay.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.836/SearchOok_results_for_ margaret atwood.txt",
+		"/C/Users/ahmad/Desktop/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [YTS.AG]/Readme.txt",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.076/SearchOok_results_for_ century astronomy.txt",
+		"/C/Users/ahmad/OneDrive/Documents/My Games/paladinslive/ChaosGame/Config/ChaosEngine.ini",
+		"/Z/GAME ISO's/FIFA 16 Super Deluxe Edition-RLDGAMES/Readme.txt",
+		"/Z/GAME ISO's/Hitman Absolution/READ ME FIRST !!!.txt",
+		"/C/Users/ahmad/AndroidStudioProjects/BrutalWeather/weather.json.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/extended_data_dictionary.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/routes.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/trips.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/stop_times.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/stops.txt",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/package-metadata.json",
+		"/C/Users/ahmad/AndroidStudioProjects/LayoutPractice/app/src/main/res/layout/activity_main.xml",
+		"/C/Users/ahmad/AppData/Local/Temp/Rar$DIa0.088/city.list.json",
+		"/C/Users/ahmad/Desktop/American Gods_1x08_720p.HDTV.MOROSE.en.zip",
+		"/C/Users/ahmad/Desktop/American Gods Season 1 720p (mkvtv.net)/American Gods - 1x07 - Episode 7.HDTV.FLEET.en.srt",
+		"/C/Users/ahmad/Desktop/American Gods Season 1 720p (mkvtv.net)/American Gods - 1x07 - Episode 7.720p.WEBRip.en.srt",
+		"/C/Users/ahmad/Desktop/HouseFull 2 Hindi 720p BRRip CharmeLeon Silver RG/English.srt",
+		"/Z/Movies/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/English.srt",
+		"/Z/Movies/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG.sub",
+		"/Z/Movies/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG.idx",
+		"/C/Users/ahmad/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG.nfo",
+		"/C/Users/ahmad/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/RARBG.COM.txt",
+		"/C/Users/ahmad/Desktop/Learning/REL 101/God Is Not One_ The Eight Rival Religions - Stephen Prothero.epub",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/stop_features.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/shapes.txt",
+		"/C/Users/ahmad/IdeaProjects/madisonBusTracker/GTFSData/transfers.txt"
+	],
+	"find":
+	{
+		"height": 40.5714285714
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sounds",
+			"urls",
+			"},\n",
+			"urls",
+			"\"((?!java\"",
+			"javascript",
+			"'",
+			"- match: '(<)((?i:script))\\b(?![^>]*/>)(?![^>]*(?i:type.?=.?text/((?!javascript).*)))'",
+			"javascript",
+			"- match: '(<)((?i:script))\\b(?![^>]*/>)(?![^>]*(?i:type.?=.?text/((?!javascript).*)))'",
+			"javascript",
+			"-match",
+			"E0E0E0",
+			"startGame",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "circles.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.5714285714
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cbuild.sublime-build",
+	"project": "patatap.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
